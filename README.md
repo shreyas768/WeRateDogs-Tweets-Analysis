@@ -7,3 +7,5 @@ The project is based on "WeRateDogs" Twitter page, which rates pictures & videos
 An archive of this Twitter data for WeRateDogs’ tweets was provided as a CSV file. Two more sources of data were also gathered as part of this project: predictions for which type of dog is present in each picture ( passed through an image classification algorithm) and additional tweet information acquired from Twitter API.
 
 The project consists mainly of following steps: Gathering Data, Assessment, Cleaning and Visual Analysis. Datasets were inspect for quality & tidiness issues. 
+
+Some exploration and analysis of the clean and tidy data was carried out & numerous interesting results were observed.
